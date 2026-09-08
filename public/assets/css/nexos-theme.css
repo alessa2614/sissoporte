@@ -1,0 +1,34 @@
+/*
+ * nexos-theme.css
+ * public/assets/css/nexos-theme.css
+ */
+
+/* ── 1. Ítem activo del sidebar ──────────────────────────────────── */
+.sidebar-wrapper .sidebar-item.active > .sidebar-link {
+    background-color: #F07820 !important;
+    color: #fff !important;
+}
+.sidebar-wrapper .sidebar-item.active > .sidebar-link i,
+.sidebar-wrapper .sidebar-item.active > .sidebar-link span {
+    color: #fff !important;
+}
+
+/* ── 2. Sidebar fondo — MODO CLARO ───────────────────────────────── */
+#sidebar .sidebar-wrapper {
+    background-color: #ffdec5 !important;
+}
+
+/* ── 3. Contenido fondo — MODO CLARO ─────────────────────────────── */
+#main {
+    background-color: #fff4ed !important;
+}
+
+/* ── 4. Sidebar fondo — MODO OSCURO ──────────────────────────────── */
+[data-bs-theme="dark"] #sidebar .sidebar-wrapper {
+    background-color: #3f1f0b !important;
+}
+
+/* ── 5. Contenido fondo — MODO OSCURO ───────────────────────────── */
+[data-bs-theme="dark"] #main {
+    background-color: #240e00 !important;
+}
