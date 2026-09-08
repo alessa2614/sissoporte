@@ -4,13 +4,29 @@ Sistema web de gestión para talleres de soporte técnico y reparación de equip
 
 ## Capturas de pantalla
 
-| Dashboard | Órdenes |
+| Landing pública | Dashboard |
 |---|---|
-| ![Dashboard](docs/screenshots/dashboard.png) | ![Órdenes](docs/screenshots/ordenes.png) |
+| ![Landing](docs/screenshots/landing.png) | ![Dashboard](docs/screenshots/dashboard.png) |
 
-| Detalle de orden | Consulta pública |
+| Lista de órdenes | Nueva orden |
 |---|---|
-| ![Detalle de orden](docs/screenshots/orden-detalle.png) | ![Consulta pública](docs/screenshots/consulta.png) |
+| ![Órdenes](docs/screenshots/ordenes.png) | ![Nueva orden](docs/screenshots/nueva-orden.png) |
+
+| Clientes | Garantías |
+|---|---|
+| ![Clientes](docs/screenshots/clientes.png) | ![Garantías](docs/screenshots/garantias.png) |
+
+| Ingresos | Reportes |
+|---|---|
+| ![Ingresos](docs/screenshots/ingresos.png) | ![Reportes](docs/screenshots/reportes.png) |
+
+| Catálogo de servicios | Permisos por rol |
+|---|---|
+| ![Catálogo de servicios](docs/screenshots/catalogo-servicios.png) | ![Permisos](docs/screenshots/permisos-roles.png) |
+
+| Consulta pública | Comprobante de entrega |
+|---|---|
+| ![Consulta pública](docs/screenshots/consulta-publica.png) | ![Comprobante](docs/screenshots/recibo-final.png) |
 
 ## Características principales
 
